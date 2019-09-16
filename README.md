@@ -1,19 +1,23 @@
 
-# Contributing
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
+# Announcements
+Subscribe to this repo to be notified of announcements and updates related to Azure App Configuration. This repo is for team announcements *only*. Please use [Azure/AppConfiguration](https://github.com/Azure/AppConfiguration) repo to report issues or share feedback.
 
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
+Announcements will made in the form of issues. In general, issues will not be closed unless it becomes invalid, for example, due to plan change. All items posted to this repo will be locked.
+
+## Notifications
+Select *Watch* on top-right of this repo to receive notifications of new announcements and updates.          
+![image](https://user-images.githubusercontent.com/10566826/64980333-7a37f300-d86e-11e9-85a0-23de21a16c70.png)
+
+## Contributing
+
+Since this repo is for announcements only, this repo does not accept issues or PRs.
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
-# Legal Notices
+## Legal Notices
 
 Microsoft and any contributors grant you a license to the Microsoft documentation and other content
 in this repository under the [Creative Commons Attribution 4.0 International Public License](https://creativecommons.org/licenses/by/4.0/legalcode),
