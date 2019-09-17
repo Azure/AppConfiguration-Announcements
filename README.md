@@ -3,7 +3,7 @@
 # Announcements
 Subscribe to this repo to be notified of announcements and updates related to Azure App Configuration. This repo is for team announcements *only*. Please use [Azure/AppConfiguration](https://github.com/Azure/AppConfiguration) repo to report issues or share feedback.
 
-Announcements will made in the form of issues. In general, issues will not be closed unless it becomes invalid, for example, due to plan change. All items posted to this repo will be locked.
+Announcements will be made in the form of issues. In general, issues will not be closed unless it becomes invalid, for example, due to plan change. All items posted to this repo will be locked.
 
 ## Notifications
 Select *Watch* on top-right of this repo to receive notifications of new announcements and updates.          
